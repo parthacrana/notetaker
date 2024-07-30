@@ -3,9 +3,9 @@ note taker challenge
 
 CHALLENGE 11 Note Taker Generator  
 
-GITHUB REPO LINK -- 
+GITHUB REPO LINK -- https://github.com/parthacrana/notetaker/tree/main
 
-LINK TO DEPLOYED APPLICATION VIA PAGES -- 
+LINK TO DEPLOYED APPLICATION VIA PAGES -- https://parthacrana.github.io/notetaker/
 
 This is the readme file for the personal blog challenge! Week 6 challenge 11! 
 
